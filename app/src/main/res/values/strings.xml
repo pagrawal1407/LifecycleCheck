@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifecycleCheck</string>
+    <string name="page_header">Page Header</string>
+    <string name="start_activity">Start Activity</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="start_activity_2">Start Activity 2</string>
+    <string name="second_activity">Second Activity</string>
+
+</resources>
